@@ -2,7 +2,7 @@
 
 ## Class vs Object
 
-A class is a blueprint. The blueprint doesn’t do anything, just gives instructions on how to make something tangible (an object);
+A class is a blueprint. The blueprint doesn’t do anything, just gives instructions on how to make something tangible (an object).
 
 When we want to make something from that blueprint, that thing is an object.
 
